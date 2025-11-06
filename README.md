@@ -2,7 +2,7 @@
 
 A beautiful and responsive website built using **HTML**, **CSS**, and **JavaScript**, showcasing the most famous tourist attractions in **Prague, Czech Republic**. The site features an interactive **carousel**, detailed information about landmarks, and a **personal portfolio sidebar** for the developer.
 
-
+## live url: https://shamim-dot-in.github.io/Famous-Tourist-Places-In-Prague/
 
 ## ✨ Features
 
